@@ -1,2 +1,3 @@
 # Sector12
-YEAHHHHH
+Hello this is a readme
+but nothing is here oops
